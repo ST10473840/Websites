@@ -1,10 +1,10 @@
 # ST10473840
-# 🏨 M&I Hotel Website
+#  M&I Hotel Website
 
 A modern and elegant **hotel website** built with **HTML, CSS, and basic JavaScript (optional)**.  
 The site showcases **rooms, amenities, about info, contact details, and a booking/payment option**.
 
-## 📌 Features
+## Features
 - Responsive **navigation bar** (Home, Rooms, Amenities, About, Contact)
 - **Hero section** highlighting concierge, spa, and dining
 - **Rooms page** with different room types (Deluxe, Executive, Presidential)
@@ -14,7 +14,7 @@ The site showcases **rooms, amenities, about info, contact details, and a bookin
 - **Booking Form** with basic payment integration (PayPal placeholder)
 - Footer with copyright information
 
-## 🗂️ Project Structure
+##  Project Structure
 The M&I Hotel website is a modern and elegant platform designed to showcase the hotel’s services, facilities, and booking options. It features a responsive design with a clean navigation bar that allows visitors to explore pages such as Home, Rooms, Amenities, About, and Contact.
 
 The homepage welcomes guests with a striking hero section highlighting the hotel’s premium offerings — 24/7 concierge, luxury spa, and fine dining experiences — along with a call-to-action button encouraging visitors to book a room.
